@@ -1,0 +1,9 @@
+package org.mathi.stream;
+
+
+public class TestStream {
+public static void main(String[] args) {
+	List<Integer> integerList=new ArrayList<Integer>();
+	
+}
+}

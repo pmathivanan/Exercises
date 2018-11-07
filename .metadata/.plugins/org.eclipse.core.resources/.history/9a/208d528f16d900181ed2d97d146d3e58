@@ -1,0 +1,10 @@
+package org.mathi.factory;
+
+public class Ford implements Car{
+	private String name;
+	private String brand;
+	private String model;
+	
+	Ford()
+
+}

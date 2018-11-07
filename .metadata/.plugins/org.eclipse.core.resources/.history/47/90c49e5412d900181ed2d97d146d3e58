@@ -1,0 +1,5 @@
+package org.mathi.observable;
+
+public class ObserverTest {
+
+}

@@ -1,0 +1,15 @@
+package org.mathivanan;
+
+import java.util.HashMap;
+
+public class EmployeeMain {
+	
+	public static void main(String[] args) {
+		Employee emp=new Employee("Mathi","Male");
+		Employee emp1=new Employee("Sangeetha","Female");
+		HashMap<Employee,Employee> hashMap=new HashMap<>();
+		hashMap.put(emp, emp);
+		hashMap.put(emp1, emp1);
+	}
+
+}

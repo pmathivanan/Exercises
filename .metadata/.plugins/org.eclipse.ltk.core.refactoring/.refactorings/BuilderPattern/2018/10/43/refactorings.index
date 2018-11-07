@@ -1,0 +1,3 @@
+1540559741417	Rename package 'org.amthi.builder'
+1540561653169	Rename type 'VehicleBuilder'
+1540562411950	Extract local variable 'build'

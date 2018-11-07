@@ -1,0 +1,22 @@
+package org.mathi.stream;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Optional;
+
+public class TestStream {
+	static List<Integer> integerList=new ArrayList<Integer>();
+public static void main(String[] args) {
+	createIntegerList();
+	Optional<Integer> findFirst = integerList.stream().findFirst();
+	System.out.println(findFirst.isPresent());
+}
+
+private static void createIntegerList() {
+	integerList.add(1);
+	integerList.add(2);
+	integerList.add(3);
+	integerList.add(4);
+	integerList.add(5);
+}
+}

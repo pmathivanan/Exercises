@@ -1,0 +1,18 @@
+package org.mathi.builder;
+
+public class VehicleBuilder {
+	
+	private String name;
+	
+	private String brand;
+	
+	private String modelYear;
+	
+	public VehicleBuilder(String name, String brand,String modelYear) {
+		// TODO Auto-generated constructor stub
+		this.name=name;
+		this.brand=brand;
+		this.modelYear=modelYear;
+	}
+
+}

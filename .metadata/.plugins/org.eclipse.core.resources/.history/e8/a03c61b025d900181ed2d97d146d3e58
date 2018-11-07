@@ -1,0 +1,29 @@
+package org.mathi.builder;
+
+public class VehicleBuilder {
+	
+	private String name;
+	
+	private String brand;
+	
+	private String modelYear;
+	
+	private String vin;
+
+	public String getName() {
+		return name;
+	}
+
+	public String getBrand() {
+		return brand;
+	}
+
+	public String getModelYear() {
+		return modelYear;
+	}
+
+	public String getVin() {
+		return vin;
+	}
+	
+}

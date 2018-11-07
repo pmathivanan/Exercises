@@ -1,0 +1,13 @@
+package org.mathi.observable;
+
+import java.util.Observable;
+
+public class VehicleFactory extends Observable{
+
+	private int vehicleCount;
+	
+	public VehicleFactory(int vehicleCount) {
+	this.vehicleCount=vehicleCount;	 
+	}
+	
+}

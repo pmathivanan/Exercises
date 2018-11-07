@@ -1,0 +1,12 @@
+package org.mathi.factor;
+
+public class Factory {
+	
+	public static Car getCar(String name,String brand,String model) {
+		if("Ford".equals(brand))
+		{
+			return new Ford(name,brand,model);
+		}
+	}
+
+}

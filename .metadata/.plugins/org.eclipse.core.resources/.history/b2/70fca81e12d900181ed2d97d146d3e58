@@ -1,0 +1,21 @@
+package org.mathi.observable;
+
+import java.util.Observable;
+
+public class VehicleFactory extends Observable{
+
+	private int vehicleCount;
+	
+	public VehicleFactory(int vehicleCount) {
+	this.vehicleCount=vehicleCount;	 
+	}
+	
+	public void setCount(int count)
+	{
+		this.vehicleCount=count;
+		if(count>100) {
+			this
+		}
+	}
+	
+}

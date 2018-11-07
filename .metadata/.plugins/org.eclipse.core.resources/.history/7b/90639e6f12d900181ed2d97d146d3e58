@@ -1,0 +1,9 @@
+package org.mathi.observable;
+
+public class ObserverTest {
+	
+	public static void main(String[] args) {
+		VehicleFactory factory= new VehicleFactory(25);
+	}
+
+}

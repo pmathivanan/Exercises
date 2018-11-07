@@ -1,0 +1,5 @@
+package org.mathi.singleton;
+
+public class SingletonTest {
+
+}

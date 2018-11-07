@@ -1,0 +1,11 @@
+package org.mathi.factory;
+
+public interface Car {
+	
+	public String getName();
+	
+	public String getModel();
+	
+	public String getBrand();
+
+}

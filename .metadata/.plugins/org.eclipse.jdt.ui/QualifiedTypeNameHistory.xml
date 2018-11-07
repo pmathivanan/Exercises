@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.mathi.singleton.Singleton"/>
+<fullyQualifiedTypeName name="java.util.Observer"/>
+<fullyQualifiedTypeName name="java.util.Observable"/>
+<fullyQualifiedTypeName name="org.mathi.observer.PortDashboard"/>
+<fullyQualifiedTypeName name="org.mathi.observer.LogiticsDashboard"/>
+<fullyQualifiedTypeName name="org.mathi.factory.pojo.Ford"/>
+<fullyQualifiedTypeName name="org.mathi.factory.pojo.Factory"/>
+<fullyQualifiedTypeName name="org.mathi.factory.pojo.Car"/>
+<fullyQualifiedTypeName name="org.mathi.builder.VehicleBuilder"/>
+<fullyQualifiedTypeName name="org.mathi.builder.Vehicle"/>
+<fullyQualifiedTypeName name="org.mathi.builder.Vehicle.VehicleBuilder"/>
+<fullyQualifiedTypeName name="org.mathivanan.EmployeeMain"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="org.mathivanan.Employee"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+</qualifiedTypeNameHistroy>

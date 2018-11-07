@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Sangeetha\Softwares\Java" version="1.8.0_181">
+<bootpath>
+<entry path="C:\Sangeetha\Softwares\Java\jre\lib\resources.jar"/>
+<entry path="C:\Sangeetha\Softwares\Java\jre\lib\rt.jar"/>
+<entry path="C:\Sangeetha\Softwares\Java\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Sangeetha\Softwares\Java\jre\lib\jsse.jar"/>
+<entry path="C:\Sangeetha\Softwares\Java\jre\lib\jce.jar"/>
+<entry path="C:\Sangeetha\Softwares\Java\jre\lib\charsets.jar"/>
+<entry path="C:\Sangeetha\Softwares\Java\jre\lib\jfr.jar"/>
+<entry path="C:\Sangeetha\Softwares\Java\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Sangeetha\Softwares\Java\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Sangeetha\Softwares\Java\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
