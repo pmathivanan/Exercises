@@ -1,0 +1,18 @@
+package org.mathi.thread;
+
+public class ThreadDemo4 {
+	
+	ThreadDemo41 td=new ThreadDemo41();
+	
+
+}
+
+class ThreadDemo41 implements Runnable{
+
+	@Override
+	public void run() {
+		System.out.println("Test");
+		
+	}
+	
+}

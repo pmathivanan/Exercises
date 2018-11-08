@@ -1,0 +1,15 @@
+package org.mathi.thread;
+
+public class ThreadDemoJoin {
+
+
+	public static void main(String[] args) {
+		ThreadDemo41 td=new ThreadDemo41();
+	}
+
+}
+
+
+class ThreadDemo41 {
+
+}

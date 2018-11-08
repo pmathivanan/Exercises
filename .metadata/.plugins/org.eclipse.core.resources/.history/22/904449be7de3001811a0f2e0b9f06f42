@@ -1,0 +1,28 @@
+package org.mathi.thread;
+
+public class ThreadDemoJoin {
+
+
+	public static void main(String[] args) throws InterruptedException {
+		
+		Thread t1= new Thread(new ThreadDemo41(),"1st Thread");
+		Thread t2= new Thread(new ThreadDemo41(),"2nd Thread");
+		Thread t3= new Thread(new ThreadDemo41(),"3rd Thread");
+		t1.start();
+		t1.join();
+		t2.start();
+		t3.start();
+	}
+
+}
+
+
+class ThreadDemo41 implements Runnable {
+
+	@Override
+	public void run() {
+		System.out.println("Executed - "+Thread.currentThread().getName());
+		
+	}
+
+}

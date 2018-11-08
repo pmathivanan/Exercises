@@ -1,0 +1,19 @@
+package org.mathi.thread;
+
+public class ThreadDemo1 {
+	
+	ThreadDemo2 d2=new ThreadDemo2();
+	Thread t=new Thread(d2);
+	t.start();
+
+}
+
+class ThreadDemo2 implements Runnable{
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

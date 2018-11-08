@@ -1,0 +1,20 @@
+package org.mathi.thread;
+
+public class ThreadDemo3 {
+	
+	public static void main(String[] args) {
+		Thread t = new Thread(new Runnable() {
+
+			@Override
+			public void run() {
+				System.out.println("Thread started");
+				
+			}
+			
+		});
+		System.out.println("Thread about to start");
+		t.start();
+		System.out.println("Thread ended");
+	}
+
+}
