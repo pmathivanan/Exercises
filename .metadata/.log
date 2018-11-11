@@ -149,3 +149,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.jface.text 2 0 2018-11-11 23:16:27.696
 !MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2018-11-11 23:29:20.206
+!MESSAGE No repository found at jar:file:/C:/Users/Sangeetha/Downloads/spring-tool-suite-4-4.0.0.RELEASE-e4.9.0-win32.win32.x86_64.zip!/.
