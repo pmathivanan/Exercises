@@ -24,4 +24,7 @@
 <fullyQualifiedTypeName name="java.lang.Double"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="org.mathi.thread.ThreadDemo2"/>
+<fullyQualifiedTypeName name="org.mathi.thread.ThreadDemoJoin"/>
 </qualifiedTypeNameHistroy>
