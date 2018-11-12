@@ -5,8 +5,10 @@
    xsi:schemaLocation = "http://www.springframework.org/schema/beans
    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
 
-   <bean id = "helloWorld" class = "org.mathivanan.HelloWorld" scope="prototype" >
-      <!-- property name = "message" value = "Hello World!"/-->
+   <bean id = "helloWorld" class = "org.mathivanan.dependencyinjection.HelloWorld">
+    	<property name="helloIndia">
+	    	<bean id = "helloIndia" class = "org.mathivanan.dependencyinjection.HelloIndia"/>
+		</property>
    </bean>
-
+   
 </beans>

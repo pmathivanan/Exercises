@@ -5,7 +5,11 @@
 	<classpathentry kind="lib" path="C:/Sangeetha/Spring-Libraries/commons-logging-1.2/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="C:/Sangeetha/Spring-Libraries/spring-framework-5.1.2.RELEASE/libs/spring-aop-5.1.2.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/Sangeetha/Spring-Libraries/spring-framework-5.1.2.RELEASE/libs/spring-aspects-5.1.2.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Sangeetha/Spring-Libraries/spring-framework-5.1.2.RELEASE/libs/spring-beans-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Sangeetha/Spring-Libraries/spring-framework-5.1.2.RELEASE/libs/spring-beans-5.1.2.RELEASE.jar" sourcepath="C:/Sangeetha/Spring-Libraries/spring-framework-5.1.2.RELEASE/libs">
+		<attributes>
+			<attribute name="source_encoding" value="UTF-8"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="lib" path="C:/Sangeetha/Spring-Libraries/spring-framework-5.1.2.RELEASE/libs/spring-context-5.1.2.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/Sangeetha/Spring-Libraries/spring-framework-5.1.2.RELEASE/libs/spring-context-indexer-5.1.2.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/Sangeetha/Spring-Libraries/spring-framework-5.1.2.RELEASE/libs/spring-context-support-5.1.2.RELEASE.jar"/>
@@ -24,5 +28,6 @@
 	<classpathentry kind="lib" path="C:/Sangeetha/Spring-Libraries/spring-framework-5.1.2.RELEASE/libs/spring-webflux-5.1.2.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/Sangeetha/Spring-Libraries/spring-framework-5.1.2.RELEASE/libs/spring-webmvc-5.1.2.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/Sangeetha/Spring-Libraries/spring-framework-5.1.2.RELEASE/libs/spring-websocket-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Sangeetha/Softwares/libraries/lombok.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
